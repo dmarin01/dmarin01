@@ -6,6 +6,4 @@ For this reason, I decided to turn my professional life around by approaching th
 
 Always eager to offer my experience and knowledge in various technologies and different workflows, with a work and personal responsibility based on discipline, a vocation for the new and a predisposition to continuous learning, all in a good environment. of work and team unity!
 
-Languages and Tools icons: 
-javascript typescript react angular nodejs react-native nextJS
 
